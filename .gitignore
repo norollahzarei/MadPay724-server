@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MadPay724
+MadPay724.Common/bin
+MadPay724.Common/obj
+MadPay724.Data/bin
+MadPay724.Data/obj
+MadPay724.Presentation/bin
+MadPay724.Presentation/obj
+MadPay724.Repo/bin
+MadPay724.Repo/obj
+MadPay724.Servicesbin
+MadPay724.Services/obj
